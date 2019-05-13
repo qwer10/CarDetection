@@ -15,17 +15,19 @@ Two main work have done：
 
 ### Model
 the architecture as follows:
-![image](https://github.com/qwer10/Attention/blob/master/images/attn_mechanism.png)
-![image](https://github.com/qwer10/Attention/blob/master/images/attn_model.png)
+![image](https://github.com/qwer10/CarDetection/blob/master/nb_images/architecture.png)
 
 
 ## Requirements
 1. TensorFlow 
 2. python 3 or later
-3. please import Keras, faker, tqdm, numpy
+3. python packages : Keras, numpy, scipy, pandas, PIL
+4. download the yolo.h5 on the websits
+
 
 ## Usage
 ```
-python Attention.py
+python cardetection.py
 ```
 ## Resualts
+![image](https://github.com/qwer10/CarDetection/blob/master/out/test.jpg)
