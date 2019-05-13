@@ -30,4 +30,6 @@ the architecture as follows:
 python cardetection.py
 ```
 ## Resualts
+the resuals as follows:
 ![image](https://github.com/qwer10/CarDetection/blob/master/out/test.jpg)
+
