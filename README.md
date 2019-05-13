@@ -22,7 +22,7 @@ the architecture as follows:
 1. TensorFlow 
 2. python 3 or later
 3. python packages : Keras, numpy, scipy, pandas, PIL
-4. download the yolo.h5 on the websits
+4. download the weights yolo.h5 on the [website](https://pjreddie.com/darknet/yolo/)
 
 
 ## Usage
